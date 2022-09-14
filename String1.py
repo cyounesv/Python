@@ -14,7 +14,7 @@ def both_ends(s):
     else:
         return s[:2] + s[len(s)-2:]
 
-print("update of file sept14 17:17")
+print("update number 2 for scenario test")
 x = 'Vincent'
 both_ends(x)
 
