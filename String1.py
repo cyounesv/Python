@@ -15,7 +15,7 @@ def both_ends(s):
         return s[:2] + s[len(s)-2:]
 
 print("update number 2 for scenario test")
-x = 'Vincent'
+x = 'Chloe'
 both_ends(x)
 
 
